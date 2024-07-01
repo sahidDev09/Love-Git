@@ -1,0 +1,26 @@
+{
+  "name": "love-git",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "I love git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahidDev09/Love-Git.git"
+  },
+  "author": "sahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahidDev09/Love-Git/issues"
+  },
+  "homepage": "https://github.com/sahidDev09/Love-Git#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^4.1.0",
+    "simple-git": "^3.25.0"
+  }
+}
